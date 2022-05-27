@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_mountain_down","path":"sprites/spr_mountain_down/spr_mountain_down.yy",},"order":2,},
+    {"id":{"name":"fnt_ui","path":"fonts/fnt_ui/fnt_ui.yy",},"order":0,},
     {"id":{"name":"spr_mountain_up","path":"sprites/spr_mountain_up/spr_mountain_up.yy",},"order":1,},
     {"id":{"name":"spr_plane","path":"sprites/spr_plane/spr_plane.yy",},"order":0,},
     {"id":{"name":"obj_mountain_up","path":"objects/obj_mountain_up/obj_mountain_up.yy",},"order":1,},
