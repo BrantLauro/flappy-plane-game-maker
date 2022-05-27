@@ -4,6 +4,7 @@
     {"id":{"name":"spr_mountain_up","path":"sprites/spr_mountain_up/spr_mountain_up.yy",},"order":1,},
     {"id":{"name":"spr_plane","path":"sprites/spr_plane/spr_plane.yy",},"order":0,},
     {"id":{"name":"obj_mountain_up","path":"objects/obj_mountain_up/obj_mountain_up.yy",},"order":1,},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":3,},
     {"id":{"name":"obj_plane","path":"objects/obj_plane/obj_plane.yy",},"order":0,},
     {"id":{"name":"obj_mountain_down","path":"objects/obj_mountain_down/obj_mountain_down.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
