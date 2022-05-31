@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_mountain_up",
-    "path": "sprites/spr_mountain_up/spr_mountain_up.yy",
+    "name": "spr_level",
+    "path": "sprites/spr_level/spr_level.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,7 +21,6 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
@@ -31,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_mountain_up",
+  "name": "obj_level",
   "tags": [],
   "resourceType": "GMObject",
 }
