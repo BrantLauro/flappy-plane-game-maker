@@ -4,6 +4,7 @@ points += (0.1 * global.level);
 
 if points > next_level {
 	global.level ++;
+	audio_play_sound(snd_level_up, 1, false);
 	next_level *= 2;
 }
 
