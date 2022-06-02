@@ -8,4 +8,5 @@ if points > next_level {
 }
 
 layer_hspeed(layer_get_id("Background") ,(-1 - global.level));
+layer_hspeed(layer_get_id("Floor"), (-4 - global.level));
 
